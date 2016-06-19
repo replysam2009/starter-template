@@ -1,0 +1,9 @@
+.facebook, .twitter, .youtube, .linkedin {
+    background-image: url('../img/sprites/sprites.png');
+    background-repeat: no-repeat;
+}
+
+.facebook {
+  height: 40px;
+  background-position: 0px -100px;
+}
